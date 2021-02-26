@@ -39,5 +39,14 @@ Here are some ideas to get you started:
 </p>
 
 # My public works
-- 👨‍💻 All of my projects are available [here](https://github.com/ycheng22?tab=repositories)
+- 👨‍💻 My repositories are available [here](https://github.com/ycheng22?tab=repositories)
+- 👨‍💻 Courses I haven taken are available [here]()
+- 👨‍💻 My website/blogs are available [here]()
 
+# Reach me
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="20" height="20"/> LinkedIn [@Yunpeng](https://www.linkedin.com/in/yunpeng-cheng-aa8142127/)
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ycheng22&show_icons=true" alt="ycheng22" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycheng22&layout=compact" alt="ycheng22" />
+</p>
