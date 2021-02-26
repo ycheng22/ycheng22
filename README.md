@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 # My public works
 - 👨‍💻 My repositories are available [here](https://github.com/ycheng22?tab=repositories)
-- 👨‍💻 Courses I haven taken are available [here](https://github.com/ycheng22/Courses_)
+- 👨‍💻 Courses I had taken are available [here](https://github.com/ycheng22/Courses_)
 - 👨‍💻 My website/blogs are available [here]()
 
 # Reach me
