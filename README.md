@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ycheng22/ycheng22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Yunpeng </h1>
+
