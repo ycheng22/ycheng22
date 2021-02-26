@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Yunpeng </h1>
 
-<h3 align="center">A PhD candidate of physics, I am actively look for a job/intern as Data Scientist, Business Analyst, Quantitative Analysist
+<h3 align="center">A PhD candidate of physics. I am actively looking for a job/intern as Data Scientist, Business Analyst, Quantitative analyst
