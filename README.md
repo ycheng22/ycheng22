@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 # My public works
 - 👨‍💻 My repositories are available [here](https://github.com/ycheng22?tab=repositories)
+- 👨‍💻 Some interesting projects are available [here]()
 - 👨‍💻 Courses I had taken are available [here](https://github.com/ycheng22/Courses_)
 - 👨‍💻 My website/blogs are [in progress](https://ycheng22.github.io/)
 - 👨‍💻 My Tableau public is available [here](https://public.tableau.com/profile/ycheng#!/)
