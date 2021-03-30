@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 # Reach me
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="20" height="20"/> LinkedIn [@Yunpeng](https://www.linkedin.com/in/yunpeng-cheng-aa8142127/)
+- <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Public" width="20" height="20"/> Tableau [@ycheng](https://public.tableau.com/profile/ycheng#!/)
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ycheng22&show_icons=true" alt="ycheng22" />
