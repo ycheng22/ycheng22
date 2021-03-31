@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 </p>
 
 # My public works
-- 👨‍💻 My repositories are available [here](https://github.com/ycheng22?tab=repositories)
-- 👨‍💻 Some interesting projects are available [here](https://github.com/ycheng22/Projects)
-- 👨‍💻 Courses I had taken are available [here](https://github.com/ycheng22/Courses_)
-- 👨‍💻 My website/blogs are [in progress](https://ycheng22.github.io/)
-- 👨‍💻 My Tableau public is available [here](https://public.tableau.com/profile/ycheng#!/)
+- 👨‍💻 My `repositories` are available [here](https://github.com/ycheng22?tab=repositories)
+- 👨‍💻 Some interesting `projects` are available [here](https://github.com/ycheng22/Projects)
+- 👨‍💻 `Courses` I had taken are available [here](https://github.com/ycheng22/Courses_)
+- 👨‍💻 My `website/blogs` are [in progress](https://ycheng22.github.io/)
+- 👨‍💻 My `Tableau` public is available [here](https://public.tableau.com/profile/ycheng#!/)
 
 # Reach me
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="20" height="20"/> LinkedIn [@Yunpeng](https://www.linkedin.com/in/yunpeng-cheng-aa8142127/)
