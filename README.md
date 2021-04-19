@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Yunpeng </h1>
 
 <h3 align="center">A PhD candidate of physics. 
-<h3 align="center">also a CFA II and FRM II candidate. 
+<h3 align="center">Also a CFA II and FRM II candidate. 
 <h3 align="center">Looking for a job/internship as Data Scientist, Business Analyst, Quantitative Analyst
 
 <p align="center">
