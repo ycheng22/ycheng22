@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A PhD candidate of physics. 
 <h3 align="center">Also a CFA II and FRM II candidate. 
-<h3 align="center">Looking for a job/internship as Data Scientist, Business Analyst, Quantitative Analyst
+<h3 align="center">Looking for a job/internship as Data Scientist, Software Engineer or Quantitative Analyst
 
 <p align="center">
   <img src="https://img.icons8.com/cotton/64/000000/computer.png" alt="computer" width="20" height="20"/> 
