@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="matlab" width="20" height="20"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JS" width="20" height="20"/> 
   <img src="https://img.icons8.com/officel/16/000000/react.png" alt="React" width="20" height="20"/> 
+  <img src="src="https://img.icons8.com/color/48/000000/angularjs.png" alt="React" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" width="20" height="20"/> 
   
   <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="c++" width="20" height="20"/> 
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png" alt="spyder" width="20" height="20"/> 
   <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="coursera" width="20" height="20"/> 
   
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="vscode" width="20" height="20"/> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/texas-flag.png" alt="texas" width="20" height="20"/> 
