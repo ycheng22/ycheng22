@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JS" width="20" height="20"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="c++" width="20" height="20"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" alt="eclipse" width="20" height="20"/> 
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="eclipse" width="20" height="20"/> 
   
   <img src="https://img.icons8.com/officel/16/000000/react.png" alt="React" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="20" height="20"/> 
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="tableau" width="20" height="20"/> 
   
   <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="coursera" width="20" height="20"/> 
-  
   
   <img src="https://img.icons8.com/color/48/000000/texas-flag.png" alt="texas" width="20" height="20"/> 
 </p>
