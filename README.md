@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Some interesting `projects` are available [here](https://github.com/ycheng22/Projects)
 - 👨‍💻 `Courses` I had taken are available [here](https://github.com/ycheng22/Courses_)
 - 👨‍💻 My `website` is available [here](https://ycheng22.github.io/)
-- 👨‍💻 My `Tableau` public is available [here](https://public.tableau.com/profile/ycheng#!/)
+- 👨‍💻 My `Tableau public` is available [here](https://public.tableau.com/profile/ycheng#!/)
 
 # Reach me
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="20" height="20"/> LinkedIn [@Yunpeng](https://www.linkedin.com/in/yunpeng-cheng-aa8142127/)
