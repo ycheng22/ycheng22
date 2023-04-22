@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 </p>
 
 # My public works
+- 👨‍💻 My `website` is available [here](https://ycheng22.github.io/)
 - 👨‍💻 My `repositories` are available [here](https://github.com/ycheng22?tab=repositories)
 - 👨‍💻 Some interesting `projects` are available [here](https://github.com/ycheng22/Projects)
 - 👨‍💻 `Courses` I had taken are available [here](https://github.com/ycheng22/Courses_)
-- 👨‍💻 My `website` is available [here](https://ycheng22.github.io/)
 - 👨‍💻 My `Tableau public` is available [here](https://public.tableau.com/profile/ycheng#!/)
 
 # Reach me
