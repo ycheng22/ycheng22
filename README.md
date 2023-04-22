@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Yunpeng </h1>
 
-<h3 align="center">A PhD in Physics, MS in CS
+<h3 align="center">A PhD in Physics, Master in CS
 <h3 align="center">A Software Engineer
 
 <p align="center">
