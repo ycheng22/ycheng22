@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Yunpeng </h1>
 
 <h3 align="center">A PhD in Physics, Master in CS
-<h3 align="center">A Software Engineer
+<h3 align="center">A Full Stack Software Engineer
 
 <p align="center">
   <img src="https://img.icons8.com/cotton/64/000000/computer.png" alt="computer" width="20" height="20"/> 
