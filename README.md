@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 - <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Public" width="20" height="20"/> Tableau [@ycheng](https://public.tableau.com/profile/ycheng#!/)
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ycheng22&show_icons=true" width=50% alt="ycheng22" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycheng22&layout=compact" width=50% alt="ycheng22" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ycheng22&show_icons=true" width=49% height=50% alt="ycheng22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycheng22&layout=compact" width=49% height=50% alt="ycheng22" />
 </p>
