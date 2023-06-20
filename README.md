@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A PhD in Physics, Master in CS
 <h3 align="center">A Full Stack Software Engineer
 
+<p>
 <p align="center">
   <img src="https://img.icons8.com/cotton/64/000000/computer.png" alt="computer" width="20" height="20"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github" width="20" height="20"/> 
@@ -63,6 +64,6 @@ Here are some ideas to get you started:
 - <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau Public" width="20" height="20"/> Tableau [@ycheng](https://public.tableau.com/profile/ycheng#!/)
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ycheng22&show_icons=true" width=49% height=50% alt="ycheng22" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycheng22&layout=compact" width=49% height=50% alt="ycheng22" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ycheng22&show_icons=true" alt="ycheng22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycheng22&layout=compact" alt="ycheng22" />
 </p>
