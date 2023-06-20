@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm YC </h1>
+<h1 align="center">Hi <img width="45" src="./img/waving_hand.gif">, I'm YC </h1>
 
 <h3 align="center">A PhD in Physics, Master in CS
 <h3 align="center">A Full Stack Software Engineer
 
-<p>
+<p></p>
 <p align="center">
   <img src="https://img.icons8.com/cotton/64/000000/computer.png" alt="computer" width="20" height="20"/> 
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github" width="20" height="20"/> 
@@ -44,6 +44,14 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="coursera" width="20" height="20"/> 
   
   <img src="https://img.icons8.com/color/48/000000/texas-flag.png" alt="texas" width="20" height="20"/> 
+</p>
+
+<p>
+  <img width=20% src="./img/AWS_SAA.png">
+  <img width=20% src="./img/AWS_DVA.png">
+  <img width=20% src="./img/AWS_Practitioner.png">
+  <img width=20% src="./img/CFA_1.png">
+
 </p>
 
 <p align="center">
